@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "amount": 10.0,
+    "category": "food",
+    "note": "This was my breakfast",
+    "date": "2026-10-29"
+  },
+  {
+    "id": 2,
+    "amount": 20.0,
+    "category": "healhcare",
+    "note": "routine checkup",
+    "date": "2026-10-29"
+  },
+  {
+    "id": 3,
+    "amount": 30.0,
+    "category": "shopping",
+    "note": "made random purchases",
+    "date": "2026-10-29"
+  }
+]
