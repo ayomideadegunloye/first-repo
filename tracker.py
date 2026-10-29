@@ -97,6 +97,7 @@ def build_parser():
 def main():
     args = build_parser().parse_args()
 
+    # this part implements what happens when you select one of the arguments
     try:
         if args.command == "add":
             e = add_expense(args.amount, args.category, args.note)
